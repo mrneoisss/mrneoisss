@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrneoisss aka Janowitch;
+- 👀 I’m interested in coding with Unity and c# in general;
+- 🌱 I’m currently learning c# with unity;
+- 📫 How to reach me: Discord: mrneoisss;
